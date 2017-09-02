@@ -3,5 +3,5 @@
   
   # This is property of cTechnolagies
   patents pendding 
-  copyright &copy 2017 cTechnolagies
-  copyright &copy 2017 D-Multi.
+  copyright © 2017 cTechnolagies
+  copyright © 2017 D-Multi.
