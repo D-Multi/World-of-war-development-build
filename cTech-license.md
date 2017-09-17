@@ -10,5 +10,5 @@ this is licensed for public use for entertainment purposses only! The name, proj
 without written consent.
 
 cTech
-d-multi
+D-Multi
 cTech is a christensen company
